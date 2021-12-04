@@ -1,0 +1,33 @@
+img {
+    height: 150px;
+}
+
+.description {
+    font-size: 20px;
+}
+
+.time {
+    font-weight: bold;
+    color: gray;
+}
+
+.ingredients li {
+    list-style: square;
+}
+
+.external-link {
+    color: rgb(46, 48, 139);
+}
+
+h1,
+h2,
+p,
+li {
+    font-family: Helvetica;
+    color: rgb(0, 120, 141);
+}
+
+#cook-time {
+    background-image: url(images\back.png);
+    background-size: cover;
+}
